@@ -1,0 +1,11 @@
+:root{
+    --mainDark: black;
+}
+
+.navbar-toggle:focus{
+    outline: none;
+}
+
+.navbar-toggle {
+    border: none;
+}
