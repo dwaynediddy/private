@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Contacts() {
-    return (
+export default function About() {
+    return ( 
         <div>
-            contacts
+            about me
         </div>
     )
 }
